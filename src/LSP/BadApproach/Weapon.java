@@ -4,5 +4,5 @@ public abstract class Weapon {
     public Weapon() {
     }
 
-    public abstract String cut() throws Exception;
+    public abstract String cut();
 }
